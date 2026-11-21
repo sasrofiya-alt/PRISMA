@@ -1,0 +1,5 @@
+config.php
+database_prisma.sql
+uploads/
+setup_admin.php
+upgrade_database.php
